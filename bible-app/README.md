@@ -1,3 +1,7 @@
+# Intro
+
+- Wanted to try to replicate an app that a friend made for cell phones on a website
+
 # Getting Started
 
 - Download the repo
